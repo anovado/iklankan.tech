@@ -1,0 +1,102 @@
+.biodata {
+  display: flex;
+  text-align: left;
+  margin-left: 5vmin;
+  margin-top: 3vmin;
+  color: #1d3557;
+  z-index: 1;
+}
+/* .button-password {
+  width: 80vmin;
+  margin-top: 5;
+  margin-left: 3;
+  margin-right: 3;
+  padding-left: 5;
+  padding-right: 5;
+  background-color: #ff810a;
+} */
+
+.button-password:hover {
+  background-color: #ff810a;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+  border-top: 1px solid #a8dadc !important;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 20px 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.pr-display-topright {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+/* .pr-display-bottomleft {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+} */
+.pr-display-container {
+  display: absolute;
+}
+/* .pr-display-container:hover {
+  display: block;
+}
+.pr-display-container:hover {
+  display: inline-block;
+} */
+
+.pr-row-padding,
+.pr-row-padding > .pr-third {
+  padding: 0 8px;
+}
+.pr-container {
+  padding: 0.01em 16px;
+  /* margin-left: 50px; */
+  /* margin-right: 50px; */
+}
+
+.pr-card-4 {
+  box-shadow: 0 4px 10px 0 rgba(109, 104, 117, 0.3),
+    0 4px 20px 0 rgba(109, 104, 117, 0.3);
+  /* margin-left: 5px;
+  margin-right: 5px; */
+}
+
+.pr-margin-top {
+  margin-top: 6vmin;
+}
+/* Colors */
+
+.pr-white {
+  color: #000 !important;
+  /* background-color: #fff !important; */
+  background-color: #f0f4fa;
+}
+.pr-text-black {
+  color: #000 !important;
+}
+.pr-text-grey {
+  color: #757575 !important;
+}

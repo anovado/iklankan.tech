@@ -1,0 +1,15 @@
+import React from "react";
+import "./App.css";
+import 'fontsource-roboto';
+// import "./assets/css/style.css";
+import MainRoutes from "./routes/MainRoutes";
+
+function App() {
+  return (
+    <div className="App">
+      <MainRoutes />
+    </div>
+  );
+}
+
+export default App;
