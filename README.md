@@ -36,3 +36,6 @@ A marketplace to connect those who own outdoor advertising spots and those who w
 ##### * Bagas Kurniajati
 ##### * Muhammad Sholeh
 
+#### P.S: 
+This repository is an archive of the original repository. It is done to guarantee its security.
+
