@@ -2,7 +2,7 @@
 
 ### Website: [iklankan](https://iklankan.tech)
 
-### Description:
+#### Description:
 A marketplace to connect those who own outdoor advertising spots and those who want to advertise their products, in a mobile and online platform.
 
 #### This project is created using:
@@ -31,8 +31,8 @@ A marketplace to connect those who own outdoor advertising spots and those who w
 5. Publishers can decide to accept or reject user's request to rent their spots
 6. All transactions are secured because we use an established payment gateway [Midtrans](https://midtrans.com/)
 
-### Made by:
-#### * Andre Novado
-#### * Bagas Kurniajati
-#### * Muhammad Sholeh
+#### Made by:
+##### * Andre Novado
+##### * Bagas Kurniajati
+##### * Muhammad Sholeh
 
